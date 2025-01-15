@@ -20,7 +20,7 @@
 
 4) run the example code
 
-  ```python3
-  src/example_usage.py
+  ```python
+  python3 src/example_usage.py
   ```
 
