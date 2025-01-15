@@ -2,7 +2,7 @@
 1) clone this repo
 
    ```bash
-   git clone git clone https://github.com/kussshhhh/lightheartedai.git
+   git clone https://github.com/kussshhhh/lightheartedai.git
    cd lightheartedai
    ```
 
